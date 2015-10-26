@@ -1,3 +1,5 @@
+# This code is working in progress
+
 class HelloWorld
    def initialize(name)
       @name = name.capitalize
